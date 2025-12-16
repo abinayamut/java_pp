@@ -23,6 +23,7 @@ public class FindMaximumof3number {
 			max = c;
 		}
 		System.out.println("Largest = "+max);
+		sc.close();
 	}
 
 }
