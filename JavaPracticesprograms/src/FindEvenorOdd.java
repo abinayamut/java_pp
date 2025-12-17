@@ -13,6 +13,7 @@ public class FindEvenorOdd {
 		{
 			System.out.println("Odd");
 		}
+		sc.close();
 	}
 
 }

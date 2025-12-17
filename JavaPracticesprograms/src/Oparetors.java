@@ -15,6 +15,7 @@ public class Oparetors {
 		System.out.println("difference of the two number is "+difference);
 		System.out.println("product of the two number is "+product);
 		System.out.println("Quotient of the two number is "+quotient);
+		sc.close();
 	}
 
 }

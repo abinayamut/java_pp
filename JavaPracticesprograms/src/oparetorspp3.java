@@ -31,7 +31,7 @@ public class oparetorspp3 {
 		default:
 			System.out.println("Invalid number");
 		}
-		
+		sc.close();
 
 	}
 

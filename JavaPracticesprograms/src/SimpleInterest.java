@@ -11,6 +11,7 @@ public class SimpleInterest {
 		float t =sc.nextFloat();
 		float si = (p*r*t)/100;
 		System.out.println("Enter Simple Interest : "+si);
+		sc.close();
 	}
 
 }

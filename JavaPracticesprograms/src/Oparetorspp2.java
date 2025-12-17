@@ -15,6 +15,7 @@ public class Oparetorspp2 {
 		{
 			System.out.println("You are not eligible");
 		}
+		sc.close();
 	}
 
 }

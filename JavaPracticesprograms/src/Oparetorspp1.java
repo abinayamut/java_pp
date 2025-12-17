@@ -12,5 +12,6 @@ public class Oparetorspp1 {
 		{
 			System.out.println("This number is odd");
 		}
+		sc.close();
 	}
 }
