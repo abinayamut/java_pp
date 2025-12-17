@@ -13,5 +13,6 @@ public class areacalculation {
 		System.out.println("This is the total area of rectangle : "+Area);
  sc.close();
 	}
-
+	
+	
 }
