@@ -11,8 +11,9 @@ public class linear_tarversal_while {
 		while(i<n)
 		{
 			System.out.print(arr[i]+ " ");
+			i++;
 		}
-
+		  System.out.println();
 	}
 
 }
